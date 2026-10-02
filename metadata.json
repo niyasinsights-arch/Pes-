@@ -1,0 +1,6 @@
+{
+  "name": "PES Tournament 2026",
+  "description": "Premium white-themed PES / eFootball Single Round Robin tournament management website for 7 players with automatic fixtures, real-time standings, and score entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
